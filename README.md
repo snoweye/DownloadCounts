@@ -3,7 +3,7 @@
 * 16 Packages in pbdR and R
 
 |10 pbdR Packages   | Last 30 Days | Last 7 Days | Last 1 Day |
-|---|---|
+|---|---|---|---|
 |pbdBASE  | [![Download](http://cranlogs.r-pkg.org/badges/pbdBASE)](https://cran.r-project.org/package=pbdBASE)  |
             [![Download](http://cranlogs.r-pkg.org/badges/last-week/pbdBASE)](https://cran.r-project.org/package=pbdBASE)  |
             [![Download](http://cranlogs.r-pkg.org/badges/last-day/pbdBASE)](https://cran.r-project.org/package=pbdBASE)  |
@@ -37,7 +37,7 @@
 
 
 |6 R Packages   | Last 30 Days | Last 7 Days | Last 1 Day |
-|---|---|
+|---|---|---|---|
 |cubfits   | [![Download](http://cranlogs.r-pkg.org/badges/cubfits)](https://cran.r-project.org/package=cubfits)  |
              [![Download](http://cranlogs.r-pkg.org/badges/last-week/cubfits)](https://cran.r-project.org/package=cubfits)  |
              [![Download](http://cranlogs.r-pkg.org/badges/last-day/cubfits)](https://cran.r-project.org/package=cubfits)  |
@@ -61,7 +61,7 @@
 * Some other R packages
 
 |R Packages   | Last 30 Days  | Last 7 Days | Last 1 Day |
-|---|---|
+|---|---|---|---|
 |Rmpi   | [![Download](http://cranlogs.r-pkg.org/badges/Rmpi)](https://cran.r-project.org/package=Rmpi)  |
           [![Download](http://cranlogs.r-pkg.org/badges/last-week/Rmpi)](https://cran.r-project.org/package=Rmpi)  |
           [![Download](http://cranlogs.r-pkg.org/badges/last-day/Rmpi)](https://cran.r-project.org/package=Rmpi)  |
