@@ -1,6 +1,6 @@
 # Download Counts
 
-* 16 Packages in pbdR and R
+* 16 Packages in [pbdR](http://r-pbd.org) and R
 
 |10 pbdR Packages   | Last 30 Days | Last 7 Days | Last 1 Day |
 |---|---|---|---|
@@ -26,10 +26,11 @@
 |QZ        | [![Download](http://cranlogs.r-pkg.org/badges/QZ)](https://cran.r-project.org/package=QZ)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/QZ)](https://cran.r-project.org/package=QZ)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/QZ)](https://cran.r-project.org/package=QZ)  |
 
 
-* Some other R packages
+* Oher relevent R packages
 
 |R Packages   | Last 30 Days  | Last 7 Days | Last 1 Day |
 |---|---|---|---|
 |Rmpi   | [![Download](http://cranlogs.r-pkg.org/badges/Rmpi)](https://cran.r-project.org/package=Rmpi)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/Rmpi)](https://cran.r-project.org/package=Rmpi)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/Rmpi)](https://cran.r-project.org/package=Rmpi)  |
 |rzmq   | [![Download](http://cranlogs.r-pkg.org/badges/rzmq)](https://cran.r-project.org/package=rzmq)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/rzmq)](https://cran.r-project.org/package=rzmq)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/rzmq)](https://cran.r-project.org/package=rzmq)  |
+|solidum | [![Download](http://cranlogs.r-pkg.org/badges/solidum)](https://cran.r-project.org/package=solidum)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/solidum)](https://cran.r-project.org/package=solidum)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/solidum)](https://cran.r-project.org/package=solidum)  |
 
