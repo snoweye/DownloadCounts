@@ -32,5 +32,5 @@
 |---|---|---|---|
 |Rmpi   | [![Download](http://cranlogs.r-pkg.org/badges/Rmpi)](https://cran.r-project.org/package=Rmpi)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/Rmpi)](https://cran.r-project.org/package=Rmpi)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/Rmpi)](https://cran.r-project.org/package=Rmpi)  |
 |rzmq   | [![Download](http://cranlogs.r-pkg.org/badges/rzmq)](https://cran.r-project.org/package=rzmq)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/rzmq)](https://cran.r-project.org/package=rzmq)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/rzmq)](https://cran.r-project.org/package=rzmq)  |
-|solidum | [![Download](http://cranlogs.r-pkg.org/badges/solidum)](https://cran.r-project.org/package=solidum)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/solidum)](https://cran.r-project.org/package=solidum)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/solidum)](https://cran.r-project.org/package=solidum)  |
+|sodium | [![Download](http://cranlogs.r-pkg.org/badges/sodium)](https://cran.r-project.org/package=sodium)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/sodium)](https://cran.r-project.org/package=sodium)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/sodium)](https://cran.r-project.org/package=sodium)  |
 
