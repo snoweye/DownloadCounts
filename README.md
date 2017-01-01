@@ -1,8 +1,8 @@
 # Download Counts
 
-* 16 Packages in [pbdR](http://r-pbd.org) and R
+* 17 Packages in [pbdR](http://r-pbd.org) and R
 
-|10 pbdR Packages   | Last 30 Days | Last 7 Days | Last 1 Day |
+|11 pbdR Packages   | Last 30 Days | Last 7 Days | Last 1 Day |
 |---|---|---|---|
 |pbdBASE  | [![Download](http://cranlogs.r-pkg.org/badges/pbdBASE)](https://cran.r-project.org/package=pbdBASE)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/pbdBASE)](https://cran.r-project.org/package=pbdBASE)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/pbdBASE)](https://cran.r-project.org/package=pbdBASE)  |
 |pbdDEMO  | [![Download](http://cranlogs.r-pkg.org/badges/pbdDEMO)](https://cran.r-project.org/package=pbdDEMO)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/pbdDEMO)](https://cran.r-project.org/package=pbdDEMO)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/pbdDEMO)](https://cran.r-project.org/package=pbdDEMO)  |
@@ -14,6 +14,7 @@
 |pbdZMQ   | [![Download](http://cranlogs.r-pkg.org/badges/pbdZMQ)](https://cran.r-project.org/package=pbdZMQ)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/pbdZMQ)](https://cran.r-project.org/package=pbdZMQ)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/pbdZMQ)](https://cran.r-project.org/package=pbdZMQ)  |
 |pmclust  | [![Download](http://cranlogs.r-pkg.org/badges/pmclust)](https://cran.r-project.org/package=pmclust)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/pmclust)](https://cran.r-project.org/package=pmclust)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/pmclust)](https://cran.r-project.org/package=pmclust)  |
 |remoter  | [![Download](http://cranlogs.r-pkg.org/badges/remoter)](https://cran.r-project.org/package=remoter)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/remoter)](https://cran.r-project.org/package=remoter)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/remoter)](https://cran.r-project.org/package=remoter)  |
+|pbdRPC  | [![Download](http://cranlogs.r-pkg.org/badges/pbdRPC)](https://cran.r-project.org/package=pbdRPC)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/pbdRPC)](https://cran.r-project.org/package=pbdRPC)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/pbdRPC)](https://cran.r-project.org/package=pbdRPC)  |
 
 
 |6 R Packages   | Last 30 Days | Last 7 Days | Last 1 Day |
