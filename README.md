@@ -1,9 +1,10 @@
 # Download Counts
 
-* 17 Packages in [pbdR](http://r-pbd.org) and R
+* 18 Packages in [pbdR](http://r-pbd.org) and R
 
-|11 pbdR Packages   | Last 30 Days | Last 7 Days | Last 1 Day |
+|12 pbdR Packages   | Last 30 Days | Last 7 Days | Last 1 Day |
 |---|---|---|---|
+|kazaam   | [![Download](http://cranlogs.r-pkg.org/badges/kazaam)](https://cran.r-project.org/package=kazaam)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/kazaam)](https://cran.r-project.org/package=kazaam)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/kazaam)](https://cran.r-project.org/package=kazaam)  |
 |pbdBASE  | [![Download](http://cranlogs.r-pkg.org/badges/pbdBASE)](https://cran.r-project.org/package=pbdBASE)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/pbdBASE)](https://cran.r-project.org/package=pbdBASE)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/pbdBASE)](https://cran.r-project.org/package=pbdBASE)  |
 |pbdDEMO  | [![Download](http://cranlogs.r-pkg.org/badges/pbdDEMO)](https://cran.r-project.org/package=pbdDEMO)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/pbdDEMO)](https://cran.r-project.org/package=pbdDEMO)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/pbdDEMO)](https://cran.r-project.org/package=pbdDEMO)  |
 |pbdDMAT  | [![Download](http://cranlogs.r-pkg.org/badges/pbdDMAT)](https://cran.r-project.org/package=pbdDMAT)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/pbdDMAT)](https://cran.r-project.org/package=pbdDMAT)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/pbdDMAT)](https://cran.r-project.org/package=pbdDMAT)  |
