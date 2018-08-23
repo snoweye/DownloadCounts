@@ -40,6 +40,7 @@
 |rlecuyer   | [![Download](http://cranlogs.r-pkg.org/badges/rlecuyer)](https://cran.r-project.org/package=rlecuyer)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/rlecuyer)](https://cran.r-project.org/package=rlecuyer)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/rlecuyer)](https://cran.r-project.org/package=rlecuyer)  |
 |rzmq   | [![Download](http://cranlogs.r-pkg.org/badges/rzmq)](https://cran.r-project.org/package=rzmq)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/rzmq)](https://cran.r-project.org/package=rzmq)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/rzmq)](https://cran.r-project.org/package=rzmq)  |
 |sodium | [![Download](http://cranlogs.r-pkg.org/badges/sodium)](https://cran.r-project.org/package=sodium)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/sodium)](https://cran.r-project.org/package=sodium)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/sodium)](https://cran.r-project.org/package=sodium)  |
+|ssh | [![Download](http://cranlogs.r-pkg.org/badges/ssh)](https://cran.r-project.org/package=ssh)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/ssh)](https://cran.r-project.org/package=ssh)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/ssh)](https://cran.r-project.org/package=ssh)  |
 
 
 * Bayesian R packages
