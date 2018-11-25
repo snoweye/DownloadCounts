@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Download Counts
 
 * 19 Packages in [pbdR](http://r-pbd.org) and R
