@@ -1,6 +1,6 @@
 # Download Counts
 
-* 19 Packages in [pbdR](http://r-pbd.org) and R
+* 20 Packages on CRAN in [pbdR](http://r-pbd.org) and R
 
 |12 pbdR Packages   | Last 30 Days | Last 7 Days | Last 1 Day |
 |---|---|---|---|
