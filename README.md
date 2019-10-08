@@ -30,7 +30,7 @@
 |QZ        | [![Download](http://cranlogs.r-pkg.org/badges/QZ)](https://cran.r-project.org/package=QZ)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/QZ)](https://cran.r-project.org/package=QZ)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/QZ)](https://cran.r-project.org/package=QZ)  |
 
 
-* Oher relevent R packages
+* Other relevant R packages
 
 |R Packages   | Last 30 Days  | Last 7 Days | Last 1 Day |
 |---|---|---|---|
@@ -54,3 +54,12 @@
 |R2WinBUGS   | [![Download](http://cranlogs.r-pkg.org/badges/R2WinBUGS)](https://cran.r-project.org/package=R2WinBUGS)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/R2WinBUGS)](https://cran.r-project.org/package=R2WinBUGS)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/R2WinBUGS)](https://cran.r-project.org/package=R2WinBUGS)  |
 |rbugs   | [![Download](http://cranlogs.r-pkg.org/badges/rbugs)](https://cran.r-project.org/package=rbugs)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/rbugs)](https://cran.r-project.org/package=rbugs)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/rbugs)](https://cran.r-project.org/package=rbugs)  |
 |runjags   | [![Download](http://cranlogs.r-pkg.org/badges/runjags)](https://cran.r-project.org/package=runjags)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/runjags)](https://cran.r-project.org/package=runjags)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/runjags)](https://cran.r-project.org/package=runjags)  |
+
+
+* Clinical Trial R packages
+
+|R Packages   | Last 30 Days  | Last 7 Days | Last 1 Day |
+|---|---|---|---|
+|bayesDP   | [![Download](http://cranlogs.r-pkg.org/badges/bayesDP)](https://cran.r-project.org/package=bayesDP)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/bayesDP)](https://cran.r-project.org/package=bayesDP)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/bayesDP)](https://cran.r-project.org/package=bayesDP)  |
+|OncoBayes2   | [![Download](http://cranlogs.r-pkg.org/badges/OncoBayes2)](https://cran.r-project.org/package=OncoBayes2)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/OncoBayes2)](https://cran.r-project.org/package=OncoBayes2)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/OncoBayes2)](https://cran.r-project.org/package=OncoBayes2)  |
+|RBesT   | [![Download](http://cranlogs.r-pkg.org/badges/RBesT)](https://cran.r-project.org/package=RBesT)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/RBesT)](https://cran.r-project.org/package=RBesT)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/RBesT)](https://cran.r-project.org/package=RBesT)  |
