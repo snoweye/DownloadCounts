@@ -34,6 +34,7 @@
 
 |R Packages   | Last 30 Days  | Last 7 Days | Last 1 Day |
 |---|---|---|---|
+|geigen | [![Download](http://cranlogs.r-pkg.org/badges/geigen)](https://cran.r-project.org/package=geigen)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/geigen)](https://cran.r-project.org/package=geigen)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/geigen)](https://cran.r-project.org/package=geigen)  |
 |IRkernel | [![Download](http://cranlogs.r-pkg.org/badges/IRkernel)](https://cran.r-project.org/package=IRkernel)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/IRkernel)](https://cran.r-project.org/package=IRkernel)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/IRkernel)](https://cran.r-project.org/package=IRkernel)  |
 |JuniperKernel | [![Download](http://cranlogs.r-pkg.org/badges/JuniperKernel)](https://cran.r-project.org/package=JuniperKernel)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/JuniperKernel)](https://cran.r-project.org/package=JuniperKernel)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/JuniperKernel)](https://cran.r-project.org/package=JuniperKernel)  |
 |ncdf4 | [![Download](http://cranlogs.r-pkg.org/badges/ncdf4)](https://cran.r-project.org/package=ncdf4)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/ncdf4)](https://cran.r-project.org/package=ncdf4)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/ncdf4)](https://cran.r-project.org/package=ncdf4)  |
