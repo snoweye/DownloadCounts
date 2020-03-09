@@ -65,3 +65,14 @@
 |bayesDP   | [![Download](http://cranlogs.r-pkg.org/badges/bayesDP)](https://cran.r-project.org/package=bayesDP)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/bayesDP)](https://cran.r-project.org/package=bayesDP)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/bayesDP)](https://cran.r-project.org/package=bayesDP)  |
 |OncoBayes2   | [![Download](http://cranlogs.r-pkg.org/badges/OncoBayes2)](https://cran.r-project.org/package=OncoBayes2)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/OncoBayes2)](https://cran.r-project.org/package=OncoBayes2)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/OncoBayes2)](https://cran.r-project.org/package=OncoBayes2)  |
 |RBesT   | [![Download](http://cranlogs.r-pkg.org/badges/RBesT)](https://cran.r-project.org/package=RBesT)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/RBesT)](https://cran.r-project.org/package=RBesT)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/RBesT)](https://cran.r-project.org/package=RBesT)  |
+
+
+* Matching  packages
+
+|R Packages   | Last 30 Days  | Last 7 Days | Last 1 Day |
+|---|---|---|---|
+|Matching   | [![Download](http://cranlogs.r-pkg.org/badges/Matching)](https://cran.r-project.org/package=Matching)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/Matching)](https://cran.r-project.org/package=Matching)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/Matching)](https://cran.r-project.org/package=Matching)  |
+|MatchIt   | [![Download](http://cranlogs.r-pkg.org/badges/MatchIt)](https://cran.r-project.org/package=MatchIt)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/MatchIt)](https://cran.r-project.org/package=MatchIt)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/MatchIt)](https://cran.r-project.org/package=MatchIt)  |
+|optmatch   | [![Download](http://cranlogs.r-pkg.org/badges/optmatch)](https://cran.r-project.org/package=optmatch)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/optmatch)](https://cran.r-project.org/package=optmatch)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/optmatch)](https://cran.r-project.org/package=optmatch)  |
+|PSAgraphics   | [![Download](http://cranlogs.r-pkg.org/badges/PSAgraphics)](https://cran.r-project.org/package=PSAgraphics)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/PSAgraphics)](https://cran.r-project.org/package=PSAgraphics)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/PSAgraphics)](https://cran.r-project.org/package=PSAgraphics)  |
+|arm   | [![Download](http://cranlogs.r-pkg.org/badges/arm)](https://cran.r-project.org/package=arm)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/arm)](https://cran.r-project.org/package=arm)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/arm)](https://cran.r-project.org/package=arm)  |
