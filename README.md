@@ -80,3 +80,9 @@
 |optmatch   | [![Download](http://cranlogs.r-pkg.org/badges/optmatch)](https://cran.r-project.org/package=optmatch)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/optmatch)](https://cran.r-project.org/package=optmatch)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/optmatch)](https://cran.r-project.org/package=optmatch)  |
 |PSAgraphics   | [![Download](http://cranlogs.r-pkg.org/badges/PSAgraphics)](https://cran.r-project.org/package=PSAgraphics)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/PSAgraphics)](https://cran.r-project.org/package=PSAgraphics)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/PSAgraphics)](https://cran.r-project.org/package=PSAgraphics)  |
 |arm   | [![Download](http://cranlogs.r-pkg.org/badges/arm)](https://cran.r-project.org/package=arm)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/arm)](https://cran.r-project.org/package=arm)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/arm)](https://cran.r-project.org/package=arm)  |
+
+* Survival  packages
+
+|R Packages   | Last 30 Days  | Last 7 Days | Last 1 Day |
+|---|---|---|---|
+|simsurv   | [![Download](http://cranlogs.r-pkg.org/badges/simsurv)](https://cran.r-project.org/package=simsurv)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/simsurv)](https://cran.r-project.org/package=simsurv)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/simsurv)](https://cran.r-project.org/package=simsurv)  |
