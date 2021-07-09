@@ -86,5 +86,6 @@
 |R Packages   | Last 30 Days  | Last 7 Days | Last 1 Day |
 |---|---|---|---|
 |simsurv   | [![Download](http://cranlogs.r-pkg.org/badges/simsurv)](https://cran.r-project.org/package=simsurv)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/simsurv)](https://cran.r-project.org/package=simsurv)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/simsurv)](https://cran.r-project.org/package=simsurv)  |
+|coxphw   | [![Download](http://cranlogs.r-pkg.org/badges/coxphw)](https://cran.r-project.org/package=coxphw)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/coxphw)](https://cran.r-project.org/package=coxphw)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/coxphw)](https://cran.r-project.org/package=coxphw)  |
 
 
