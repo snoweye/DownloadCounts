@@ -1,6 +1,6 @@
 # Download Counts
 
-* 20 Packages on CRAN (12 in [pbdR](http://r-pbd.org) and 8 in R)
+* Packages on CRAN ([pbdR](http://r-pbd.org) and R)
 
 |12 pbdR Packages   | Last 30 Days | Last 7 Days | Last 1 Day |
 |---|---|---|---|
@@ -18,7 +18,7 @@
 |remoter  | [![Download](http://cranlogs.r-pkg.org/badges/remoter)](https://cran.r-project.org/package=remoter)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/remoter)](https://cran.r-project.org/package=remoter)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/remoter)](https://cran.r-project.org/package=remoter)  |
 
 
-|8 R Packages   | Last 30 Days | Last 7 Days | Last 1 Day |
+|9 R Packages   | Last 30 Days | Last 7 Days | Last 1 Day |
 |---|---|---|---|
 |cubfits   | [![Download](http://cranlogs.r-pkg.org/badges/cubfits)](https://cran.r-project.org/package=cubfits)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/cubfits)](https://cran.r-project.org/package=cubfits)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/cubfits)](https://cran.r-project.org/package=cubfits)  |
 |EMCluster | [![Download](http://cranlogs.r-pkg.org/badges/EMCluster)](https://cran.r-project.org/package=EMCluster)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/EMCluster)](https://cran.r-project.org/package=EMCluster)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/EMCluster)](https://cran.r-project.org/package=EMCluster)  |
@@ -27,6 +27,7 @@
 |MixfMRI    | [![Download](http://cranlogs.r-pkg.org/badges/MixfMRI)](https://cran.r-project.org/package=MixfMRI)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/MixfMRI)](https://cran.r-project.org/package=MixfMRI)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/MixfMRI)](https://cran.r-project.org/package=MixfMRI)  |
 |MixSim    | [![Download](http://cranlogs.r-pkg.org/badges/MixSim)](https://cran.r-project.org/package=MixSim)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/MixSim)](https://cran.r-project.org/package=MixSim)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/MixSim)](https://cran.r-project.org/package=MixSim)  |
 |phyclust  | [![Download](http://cranlogs.r-pkg.org/badges/phyclust)](https://cran.r-project.org/package=phyclust)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/phyclust)](https://cran.r-project.org/package=phyclust)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/phyclust)](https://cran.r-project.org/package=phyclust)  |
+|psrwe     | [![Download](http://cranlogs.r-pkg.org/badges/psrwe)](https://cran.r-project.org/package=psrwe)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/psrwe)](https://cran.r-project.org/package=psrwe)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/psrwe)](https://cran.r-project.org/package=psrwe)  |
 |QZ        | [![Download](http://cranlogs.r-pkg.org/badges/QZ)](https://cran.r-project.org/package=QZ)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/QZ)](https://cran.r-project.org/package=QZ)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/QZ)](https://cran.r-project.org/package=QZ)  |
 
 
@@ -38,6 +39,7 @@
 |geigen | [![Download](http://cranlogs.r-pkg.org/badges/geigen)](https://cran.r-project.org/package=geigen)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/geigen)](https://cran.r-project.org/package=geigen)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/geigen)](https://cran.r-project.org/package=geigen)  |
 |IRkernel | [![Download](http://cranlogs.r-pkg.org/badges/IRkernel)](https://cran.r-project.org/package=IRkernel)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/IRkernel)](https://cran.r-project.org/package=IRkernel)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/IRkernel)](https://cran.r-project.org/package=IRkernel)  |
 |JuniperKernel | [![Download](http://cranlogs.r-pkg.org/badges/JuniperKernel)](https://cran.r-project.org/package=JuniperKernel)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/JuniperKernel)](https://cran.r-project.org/package=JuniperKernel)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/JuniperKernel)](https://cran.r-project.org/package=JuniperKernel)  |
+|KSgeneral     | [![Download](http://cranlogs.r-pkg.org/badges/KSgeneral)](https://cran.r-project.org/package=KSgeneral)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/KSgeneral)](https://cran.r-project.org/package=KSgeneral)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/KSgeneral)](https://cran.r-project.org/package=KSgeneral)  |
 |mclust | [![Download](http://cranlogs.r-pkg.org/badges/mclust)](https://cran.r-project.org/package=mclust)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/mclust)](https://cran.r-project.org/package=mclust)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/mclust)](https://cran.r-project.org/package=mclust)  |
 |ncdf4 | [![Download](http://cranlogs.r-pkg.org/badges/ncdf4)](https://cran.r-project.org/package=ncdf4)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/ncdf4)](https://cran.r-project.org/package=ncdf4)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/ncdf4)](https://cran.r-project.org/package=ncdf4)  |
 |Rmpi   | [![Download](http://cranlogs.r-pkg.org/badges/Rmpi)](https://cran.r-project.org/package=Rmpi)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/Rmpi)](https://cran.r-project.org/package=Rmpi)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/Rmpi)](https://cran.r-project.org/package=Rmpi)  |
