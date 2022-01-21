@@ -70,12 +70,11 @@
 |frailtypack   | [![Download](http://cranlogs.r-pkg.org/badges/frailtypack)](https://cran.r-project.org/package=frailtypack)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/frailtypack)](https://cran.r-project.org/package=frailtypack)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/frailtypack)](https://cran.r-project.org/package=frailtypack)  |
 |ltmle   | [![Download](http://cranlogs.r-pkg.org/badges/ltmle)](https://cran.r-project.org/package=ltmle)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/ltmle)](https://cran.r-project.org/package=ltmle)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/ltmle)](https://cran.r-project.org/package=ltmle)  |
 |OncoBayes2   | [![Download](http://cranlogs.r-pkg.org/badges/OncoBayes2)](https://cran.r-project.org/package=OncoBayes2)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/OncoBayes2)](https://cran.r-project.org/package=OncoBayes2)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/OncoBayes2)](https://cran.r-project.org/package=OncoBayes2)  |
-|psrwe   | [![Download](http://cranlogs.r-pkg.org/badges/psrwe)](https://cran.r-project.org/package=psrwe)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/psrwe)](https://cran.r-project.org/package=psrwe)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/psrwe)](https://cran.r-project.org/package=psrwe)  |
 |RBesT   | [![Download](http://cranlogs.r-pkg.org/badges/RBesT)](https://cran.r-project.org/package=RBesT)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/RBesT)](https://cran.r-project.org/package=RBesT)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/RBesT)](https://cran.r-project.org/package=RBesT)  |
 |tmle    | [![Download](http://cranlogs.r-pkg.org/badges/tmle)](https://cran.r-project.org/package=tmle)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/tmle)](https://cran.r-project.org/package=tmle)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/tmle)](https://cran.r-project.org/package=tmle)  |
 
 
-* Matching  packages
+* Matching packages
 
 |R Packages   | Last 30 Days  | Last 7 Days | Last 1 Day |
 |---|---|---|---|
@@ -85,11 +84,20 @@
 |PSAgraphics   | [![Download](http://cranlogs.r-pkg.org/badges/PSAgraphics)](https://cran.r-project.org/package=PSAgraphics)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/PSAgraphics)](https://cran.r-project.org/package=PSAgraphics)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/PSAgraphics)](https://cran.r-project.org/package=PSAgraphics)  |
 |arm   | [![Download](http://cranlogs.r-pkg.org/badges/arm)](https://cran.r-project.org/package=arm)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/arm)](https://cran.r-project.org/package=arm)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/arm)](https://cran.r-project.org/package=arm)  |
 
-* Survival  packages
+
+* Survival packages
 
 |R Packages   | Last 30 Days  | Last 7 Days | Last 1 Day |
 |---|---|---|---|
 |simsurv   | [![Download](http://cranlogs.r-pkg.org/badges/simsurv)](https://cran.r-project.org/package=simsurv)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/simsurv)](https://cran.r-project.org/package=simsurv)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/simsurv)](https://cran.r-project.org/package=simsurv)  |
 |coxphw   | [![Download](http://cranlogs.r-pkg.org/badges/coxphw)](https://cran.r-project.org/package=coxphw)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/coxphw)](https://cran.r-project.org/package=coxphw)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/coxphw)](https://cran.r-project.org/package=coxphw)  |
+
+
+* Biomarker packages
+
+|R Packages   | Last 30 Days  | Last 7 Days | Last 1 Day |
+|---|---|---|---|
+|model4you   | [![Download](http://cranlogs.r-pkg.org/badges/model4you)](https://cran.r-project.org/package=model4you)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/model4you)](https://cran.r-project.org/package=model4you)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/model4you)](https://cran.r-project.org/package=model4you)  |
+|partykit   | [![Download](http://cranlogs.r-pkg.org/badges/partykit)](https://cran.r-project.org/package=partykit)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/partykit)](https://cran.r-project.org/package=partykit)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/partykit)](https://cran.r-project.org/package=partykit)  |
 
 
