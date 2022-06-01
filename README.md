@@ -53,6 +53,7 @@
 
 |R Packages   | Last 30 Days  | Last 7 Days | Last 1 Day |
 |---|---|---|---|
+|nimble   | [![Download](http://cranlogs.r-pkg.org/badges/nimble)](https://cran.r-project.org/package=nimble)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/nimble)](https://cran.r-project.org/package=nimble)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/nimble)](https://cran.r-project.org/package=nimble)  |
 |rstan   | [![Download](http://cranlogs.r-pkg.org/badges/rstan)](https://cran.r-project.org/package=rstan)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/rstan)](https://cran.r-project.org/package=rstan)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/rstan)](https://cran.r-project.org/package=rstan)  |
 |rjags   | [![Download](http://cranlogs.r-pkg.org/badges/rjags)](https://cran.r-project.org/package=rjags)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/rjags)](https://cran.r-project.org/package=rjags)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/rjags)](https://cran.r-project.org/package=rjags)  |
 |R2jags   | [![Download](http://cranlogs.r-pkg.org/badges/R2jags)](https://cran.r-project.org/package=R2jags)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/R2jags)](https://cran.r-project.org/package=R2jags)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/R2jags)](https://cran.r-project.org/package=R2jags)  |
