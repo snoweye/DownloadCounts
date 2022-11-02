@@ -113,3 +113,10 @@
 |partykit   | [![Download](http://cranlogs.r-pkg.org/badges/partykit)](https://cran.r-project.org/package=partykit)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/partykit)](https://cran.r-project.org/package=partykit)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/partykit)](https://cran.r-project.org/package=partykit)  |
 
 
+* ML packages
+
+|R Packages   | Last 30 Days  | Last 7 Days | Last 1 Day |
+|---|---|---|---|
+|lightgbm   | [![Download](http://cranlogs.r-pkg.org/badges/lightgbm)](https://cran.r-project.org/package=lightgbm)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/lightgbm)](https://cran.r-project.org/package=lightgbm)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/lightgbm)](https://cran.r-project.org/package=lightgbm)  |
+|xgboost   | [![Download](http://cranlogs.r-pkg.org/badges/xgboost)](https://cran.r-project.org/package=xgboost)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/xgboost)](https://cran.r-project.org/package=xgboost)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/xgboost)](https://cran.r-project.org/package=xgboost)  |
+
