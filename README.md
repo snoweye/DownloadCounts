@@ -120,3 +120,12 @@
 |lightgbm   | [![Download](http://cranlogs.r-pkg.org/badges/lightgbm)](https://cran.r-project.org/package=lightgbm)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/lightgbm)](https://cran.r-project.org/package=lightgbm)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/lightgbm)](https://cran.r-project.org/package=lightgbm)  |
 |xgboost   | [![Download](http://cranlogs.r-pkg.org/badges/xgboost)](https://cran.r-project.org/package=xgboost)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/xgboost)](https://cran.r-project.org/package=xgboost)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/xgboost)](https://cran.r-project.org/package=xgboost)  |
 
+
+* OHDSI HADES related packages
+
+|R Packages   | Last 30 Days  | Last 7 Days | Last 1 Day |
+|---|---|---|---|
+|CohortMethod   | [![Download](http://cranlogs.r-pkg.org/badges/CohortMethod)](https://cran.r-project.org/package=CohortMethod)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/CohortMethod)](https://cran.r-project.org/package=CohortMethod)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/CohortMethod)](https://cran.r-project.org/package=CohortMethod)  |
+|PheValuator   | [![Download](http://cranlogs.r-pkg.org/badges/PheValuator)](https://cran.r-project.org/package=PheValuator)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/PheValuator)](https://cran.r-project.org/package=PheValuator)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/PheValuator)](https://cran.r-project.org/package=PheValuator)  |
+
+
