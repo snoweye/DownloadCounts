@@ -71,6 +71,7 @@
 |bayesCT   | [![Download](http://cranlogs.r-pkg.org/badges/bayesCT)](https://cran.r-project.org/package=bayesCT)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/bayesCT)](https://cran.r-project.org/package=bayesCT)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/bayesCT)](https://cran.r-project.org/package=bayesCT)  |
 |BayesCTDesign   | [![Download](http://cranlogs.r-pkg.org/badges/BayesCTDesign)](https://cran.r-project.org/package=BayesCTDesign)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/BayesCTDesign)](https://cran.r-project.org/package=BayesCTDesign)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/BayesCTDesign)](https://cran.r-project.org/package=BayesCTDesign)  |
 |bayesDP   | [![Download](http://cranlogs.r-pkg.org/badges/bayesDP)](https://cran.r-project.org/package=bayesDP)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/bayesDP)](https://cran.r-project.org/package=bayesDP)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/bayesDP)](https://cran.r-project.org/package=bayesDP)  |
+|BuyseTest   | [![Download](http://cranlogs.r-pkg.org/badges/BuyseTest)](https://cran.r-project.org/package=BuyseTest)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/BuyseTest)](https://cran.r-project.org/package=BuyseTest)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/BuyseTest)](https://cran.r-project.org/package=BuyseTest)  |
 |frailtypack   | [![Download](http://cranlogs.r-pkg.org/badges/frailtypack)](https://cran.r-project.org/package=frailtypack)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/frailtypack)](https://cran.r-project.org/package=frailtypack)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/frailtypack)](https://cran.r-project.org/package=frailtypack)  |
 |Hmisc   | [![Download](http://cranlogs.r-pkg.org/badges/Hmisc)](https://cran.r-project.org/package=Hmisc)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/Hmisc)](https://cran.r-project.org/package=Hmisc)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/Hmisc)](https://cran.r-project.org/package=Hmisc)  |
 |ltmle   | [![Download](http://cranlogs.r-pkg.org/badges/ltmle)](https://cran.r-project.org/package=ltmle)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/ltmle)](https://cran.r-project.org/package=ltmle)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/ltmle)](https://cran.r-project.org/package=ltmle)  |
@@ -111,5 +112,21 @@
 |---|---|---|---|
 |model4you   | [![Download](http://cranlogs.r-pkg.org/badges/model4you)](https://cran.r-project.org/package=model4you)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/model4you)](https://cran.r-project.org/package=model4you)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/model4you)](https://cran.r-project.org/package=model4you)  |
 |partykit   | [![Download](http://cranlogs.r-pkg.org/badges/partykit)](https://cran.r-project.org/package=partykit)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/partykit)](https://cran.r-project.org/package=partykit)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/partykit)](https://cran.r-project.org/package=partykit)  |
+
+
+* ML packages
+
+|R Packages   | Last 30 Days  | Last 7 Days | Last 1 Day |
+|---|---|---|---|
+|lightgbm   | [![Download](http://cranlogs.r-pkg.org/badges/lightgbm)](https://cran.r-project.org/package=lightgbm)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/lightgbm)](https://cran.r-project.org/package=lightgbm)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/lightgbm)](https://cran.r-project.org/package=lightgbm)  |
+|xgboost   | [![Download](http://cranlogs.r-pkg.org/badges/xgboost)](https://cran.r-project.org/package=xgboost)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/xgboost)](https://cran.r-project.org/package=xgboost)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/xgboost)](https://cran.r-project.org/package=xgboost)  |
+
+
+* OHDSI HADES related packages
+
+|R Packages   | Last 30 Days  | Last 7 Days | Last 1 Day |
+|---|---|---|---|
+|CohortMethod   | [![Download](http://cranlogs.r-pkg.org/badges/CohortMethod)](https://cran.r-project.org/package=CohortMethod)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/CohortMethod)](https://cran.r-project.org/package=CohortMethod)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/CohortMethod)](https://cran.r-project.org/package=CohortMethod)  |
+|PheValuator   | [![Download](http://cranlogs.r-pkg.org/badges/PheValuator)](https://cran.r-project.org/package=PheValuator)  | [![Download](http://cranlogs.r-pkg.org/badges/last-week/PheValuator)](https://cran.r-project.org/package=PheValuator)  | [![Download](http://cranlogs.r-pkg.org/badges/last-day/PheValuator)](https://cran.r-project.org/package=PheValuator)  |
 
 
